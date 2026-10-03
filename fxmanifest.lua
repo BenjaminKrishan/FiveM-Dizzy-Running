@@ -4,7 +4,7 @@ lua54 'yes'
 use_experimental_fxv2_oal 'yes'
 author 'Benjamin Krishan'
 description 'BenX Development Dizzy Running Script © 2026'
-version '1.0.0'
+version '2.0.0'
 repository 'https://github.com/BenjaminKrishan'
 discord 'https://discord.gg/5vH5qq6RSV'
 
